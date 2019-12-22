@@ -7,5 +7,5 @@
 <br>
 [NAOYA118](https://github.com/naoya118)
 <br>
-(2345632)
+(2345632作)
 [![gif](fxixQDDsX8gcpMS0PnSb1575794421-1575794438.gif)](https://github.com/NAOYA118/2345632xNAOYA118/blob/master/fxixQDDsX8gcpMS0PnSb1575794421-1575794438.gif)
