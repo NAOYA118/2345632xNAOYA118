@@ -6,7 +6,3 @@
 [![NAOYA118-icon](NAOYA118.jpg "NAOYA118")](https://github.com/naoya118)
 <br>
 [NAOYA118](https://github.com/naoya118)
-<br>
-<br>
-<br>
-[作品集](works.md)
