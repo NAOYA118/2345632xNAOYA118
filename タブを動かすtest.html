@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>タブを動かす</title>
+
+<script type="text/javascript">
+<!--
+
+function change(move){
+
+	if(move == 'top'){ 
+
+		window.moveBy(0, -20); 
+
+	}
+	else if(move == 'left'){ 
+
+		window.moveBy(-20, 0);
+
+	}
+	else if(move == 'right'){ 
+
+
+		window.moveBy(20, 0); 
+
+
+	}
+	else if(move == 'bottom'){ 
+
+		window.moveBy(0, 20); 
+
+	}
+
+}
+
+
+</script>
+
+</head>
+<body>
+
+<p>
+<input type="button" value="↑上" onClick="change('top')">
+<br>
+<input type="button" value="←左" onClick="change('left')">
+<input type="button" value="右→" onClick="change('right')">
+<br>
+<input type="button" value="↓下" onClick="change('bottom')">
+</p>
+
+</body>
+</html>
