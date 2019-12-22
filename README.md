@@ -11,4 +11,5 @@
 (2345632作)
 [![gif](ygP5vyVkvTGPfIztcb9e1575794339-1575794387.gif)](https://github.com/NAOYA118/2345632xNAOYA118/blob/master/ygP5vyVkvTGPfIztcb9e1575794339-1575794387.gif)<br>
 <br><br>
-<p><a href="https://naoya118.github.io/2345632xNAOYA118/タブを動かすtest.html" target="_blank">タブを動かすtest</a> (2345632作)</p><br>
+[タブを動かすtest](https://naoya118.github.io/2345632xNAOYA118/タブを動かすtest.html){:target="_blank"}
+(2345632作)<br>
