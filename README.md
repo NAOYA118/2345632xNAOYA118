@@ -12,3 +12,40 @@
 [![gif](ygP5vyVkvTGPfIztcb9e1575794339-1575794387.gif)](https://github.com/NAOYA118/2345632xNAOYA118/blob/master/ygP5vyVkvTGPfIztcb9e1575794339-1575794387.gif)<br>
 <br><br>
 [タブを動かすtest](https://naoya118.github.io/2345632xNAOYA118/タブを動かすtest.html)(2345632作)
+
+[blank.yml](workflows/blank.yml)
+```yaml:blank.yml
+name: CI
+
+
+
+on: [push]
+
+
+
+jobs:
+
+  build:
+
+
+
+    runs-on: ubuntu-latest
+
+
+
+    steps:
+
+    - uses: actions/checkout@v1
+
+    - name: Run a one-line script
+
+      run: echo Hello, world!
+
+    - name: Run a multi-line script
+
+      run: |
+
+        echo Add other actions to build,
+
+        echo test, and deploy your project.
+```
