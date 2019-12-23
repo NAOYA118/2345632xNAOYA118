@@ -13,7 +13,6 @@
 <br><br>
 [タブを動かすtest](https://naoya118.github.io/2345632xNAOYA118/タブを動かすtest.html)(2345632作)
 
-[blank.yml](workflows/blank.yml)
 ```yaml:blank.yml
 name: CI
 
@@ -49,3 +48,4 @@ jobs:
 
         echo test, and deploy your project.
 ```
+[blank.yml](workflows/blank.yml)(2345632作)
